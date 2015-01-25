@@ -1,0 +1,2 @@
+# Adhaar-Security-Project
+This application will be very help full for every department mainly crime department. Using this application government can inform different authorities like travelling, security …etc about any person within seconds. Whenever anyone enters uid of the person information will be displayed. Basing on that information security measures can be taken. This site will provide photo identification with finger prints and eye scanning so chances of escaping will be impossible.
